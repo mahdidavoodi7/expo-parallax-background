@@ -30,3 +30,7 @@ Clone the repo:
 ```bash
 git clone https://github.com/mahdidavoodi7/expo-parallax-background.git
 cd expo-parallax-gyroscope-effect
+
+---
+
+Made by [Motionary](https://motionary.dev). Related: [Gyro Parallax Card](https://motionary.dev/animations/gyro-parallax-card).
